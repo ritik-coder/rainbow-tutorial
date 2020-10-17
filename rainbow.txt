@@ -1,0 +1,8 @@
+therw are seven colors or rainbow
+1. red
+2. blue
+3.green
+4.white
+5.yellow
+6.black
+7.pink
